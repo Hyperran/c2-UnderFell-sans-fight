@@ -1,5 +1,5 @@
-# Bad Time Simulator (Sans Fight)
-This project is a clone of the sans fight from [Undertale](http://undertale.com/).
+# Great Time Simulator (UnderFell Sans Fight)
+This project is a clone of the sans fight from [UnderFell](http://underfell.tumblr.com).
 It was made with [Construct 2](https://www.scirra.com/construct2).
 
 NOW AVAILABLE! [Custom attacks guide](Documentation/README.MD)
@@ -13,7 +13,4 @@ Known Issues
 
 Contact
 -------
-If you want to contact me for some reason, you can do so through the following:
-
-- ~~[Facepunch](https://facepunch.com/member.php?u=13155)~~ R.I.P. Facepunch
-- [Steam](http://steamcommunity.com/id/Jcw87/)
+no
